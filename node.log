@@ -1,0 +1,25 @@
+Starting port 80, http://localhost:80
+{ dassd: 8, dasdsd: 5, dasdds: 'dasda' }
+8
+5
+dasda
+{ da: 8, das: 5, dasd: 'dasda', otro: ' no entra' }
+8
+5
+dasda
+ no entra
+{ da: 8, das: 5, dasd: '7', otro: ' no entra' }
+8
+5
+7
+ no entra
+{ da: 8, das: 5, dasd: '10', otro: ' no entra' }
+8
+5
+10
+ no entra
+{ da: 8, das: 5, dasd: 10, otro: ' no entra' }
+8
+5
+10
+ no entra
